@@ -1,3 +1,4 @@
+# NURecipes
 # React Vitest Template
 
 A starter template for building React apps with Vite. Includes Vitest for unit testing and
